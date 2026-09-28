@@ -1,0 +1,16 @@
+D:\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.exe
+D:\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.deps.json
+D:\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.runtimeconfig.json
+D:\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.dll
+D:\Câu 3\Câu 3\bin\Debug\net10.0-windows\Câu 3.pdb
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu_3.Form1.resources
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.GenerateResource.cache
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.AssemblyInfoInputs.cache
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.AssemblyInfo.cs
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.csproj.CoreCompileInputs.cache
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.dll
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\refint\Câu 3.dll
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.pdb
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\Câu 3.genruntimeconfig.cache
+D:\Câu 3\Câu 3\obj\Debug\net10.0-windows\ref\Câu 3.dll
