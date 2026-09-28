@@ -1,0 +1,16 @@
+D:\Câu 2\Câu 2\bin\Debug\net10.0-windows\Câu 2.exe
+D:\Câu 2\Câu 2\bin\Debug\net10.0-windows\Câu 2.deps.json
+D:\Câu 2\Câu 2\bin\Debug\net10.0-windows\Câu 2.runtimeconfig.json
+D:\Câu 2\Câu 2\bin\Debug\net10.0-windows\Câu 2.dll
+D:\Câu 2\Câu 2\bin\Debug\net10.0-windows\Câu 2.pdb
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu_2.Form1.resources
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.csproj.GenerateResource.cache
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.AssemblyInfoInputs.cache
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.AssemblyInfo.cs
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.csproj.CoreCompileInputs.cache
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.dll
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\refint\Câu 2.dll
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.pdb
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\Câu 2.genruntimeconfig.cache
+D:\Câu 2\Câu 2\obj\Debug\net10.0-windows\ref\Câu 2.dll
