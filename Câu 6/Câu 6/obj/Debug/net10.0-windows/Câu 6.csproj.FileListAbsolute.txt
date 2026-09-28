@@ -1,0 +1,17 @@
+D:\Câu 6\Câu 6\bin\Debug\net10.0-windows\Câu 6.exe
+D:\Câu 6\Câu 6\bin\Debug\net10.0-windows\Câu 6.deps.json
+D:\Câu 6\Câu 6\bin\Debug\net10.0-windows\Câu 6.runtimeconfig.json
+D:\Câu 6\Câu 6\bin\Debug\net10.0-windows\Câu 6.dll
+D:\Câu 6\Câu 6\bin\Debug\net10.0-windows\Câu 6.pdb
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu_6.Form1.resources
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu_6.FormGhiChu.resources
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.csproj.GenerateResource.cache
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.AssemblyInfoInputs.cache
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.AssemblyInfo.cs
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.csproj.CoreCompileInputs.cache
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.dll
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\refint\Câu 6.dll
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.pdb
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\Câu 6.genruntimeconfig.cache
+D:\Câu 6\Câu 6\obj\Debug\net10.0-windows\ref\Câu 6.dll
